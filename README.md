@@ -2,6 +2,7 @@
 Trabajo practico Programacion II (Matias, Oriana, Paz, Francisco, Gonzalo)
 Hola manga de putos, ponganse la pila a trabajar en el TP
 
+SI SUBEN UN ARCHIVO USEN EL FORMATO: NOMBREARCHIVO-NOMBREPERSONA.type
 uwu
 
 Objetivos del TP:
